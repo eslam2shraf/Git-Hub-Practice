@@ -1,0 +1,4 @@
+CSS Meditation #8: .work + .life { border: 10px solid #000; }
+:root {
+  --primary-color: hsl(25 100% 50%);
+}
